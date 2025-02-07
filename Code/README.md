@@ -1,4 +1,4 @@
-## APK Directory
+## Code Directory
 
 This directory contains the source code employed for the tests. In particular:
 
