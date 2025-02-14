@@ -8,4 +8,4 @@ This repository contains the data and source code that can be used to implement 
 
 This repository contains the following:
 - *Data* directory with the APKs, and the mapping sha256-obfuscation methodology, of the APKs used in the testing phase;
-- *Code* directory with the source code of the vanilla custom-built application, and the smali code of the loader classes.
+- *Code* directory with the source code of the unobfuscated custom-built application, and the smali code of the loader classes.
