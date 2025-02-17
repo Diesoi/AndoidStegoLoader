@@ -1,6 +1,6 @@
 ## APK Directory
 
-This directory contains the APKs employed for the tests. In particular:
+This directory contains the APKs (TROVARE MODO PER INSERIRE GLI APK) employed for the tests. In particular:
 
 - **Vanilla** contains the APKs with the steganography resource, and loader code without obfuscation mechanisms;
 - **Obfuscated** contains the obfuscated version of the APKs aformentioned:
