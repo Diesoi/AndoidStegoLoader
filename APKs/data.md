@@ -13,7 +13,7 @@ In particular, Vanilla refers to the APKs with no obfuscation at all, while Obfu
     Bitmap Loader -> 6126c8401f5719ddb3e38103f3b82d979cd075c9bd7190adeb9d5b0507cf7309
     OpenCV Loader -> 766e30624439a745904500d7ef1ac782414f9567093f6af8b2c3fcb9c30b7914
 ### Telegram
-    Oringial Telegram application without the loader -> 6c5e7eaa2a3039f1cd2d99e4a06692b43e6bf892b878a4e66ff86f7f34f65053
+    Original Telegram application without the loader -> 6c5e7eaa2a3039f1cd2d99e4a06692b43e6bf892b878a4e66ff86f7f34f65053
     Bitmap Loader -> 7a50c88865f5b0cb44ee4898cef4d3308bec2097faf183c9eaf4a7ae50ff2c56
     OpenCV Loader -> 17e6e6545e1978fdbe97ec4fc4a76b86f1fee011dd5557639b6858eadc3f2579
 

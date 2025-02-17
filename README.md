@@ -7,5 +7,6 @@ This repository contains the data and source code that can be used to implement 
 ## Content
 
 This repository contains the following:
-- *Data* directory with the APKs, and the mapping sha256-obfuscation methodology, of the APKs used in the testing phase;
-- *Code* directory with the source code of the unobfuscated custom-built application, and the smali code of the loader classes.
+- *Data* directory contains the APKs, and the mapping sha256 and obfuscation methodology, of the APKs used in the testing phase;
+- *Code* directory contains the source code of the unobfuscated custom-built application, and the smali code of the loader classes;
+- *VirusTotal* directory contains the summary of the results by VirusTotal.

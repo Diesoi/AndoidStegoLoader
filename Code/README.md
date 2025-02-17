@@ -9,4 +9,6 @@ This directory contains the source code employed for the tests. In particular:
 
 - **custom_application_source** contains the whole source code of the custom built application
 
-    To fully employ it, you need to download the OpenCV release by following [this](https://medium.com/@sdranju/android-studio-step-by-step-guide-for-setting-up-opencv-sdk-4-9-on-android-740547f3260b) repository 
+    To fully employ it, you need to download the OpenCV release by following [this](https://medium.com/@sdranju/android-studio-step-by-step-guide-for-setting-up-opencv-sdk-4-9-on-android-740547f3260b) guide
+
+- file **proguard-rules.pro** contain the rules we employed to obfuscate the loader classes with R8
