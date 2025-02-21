@@ -8,10 +8,11 @@ In particular, Vanilla refers to the APKs with no obfuscation at all, while Obfu
 - *RCiReMo* applies reflection, call insertion, reorder, method overload
 
 These are a subsample of obfuscation techiques from [obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk): 
+```
 AdvancedReflection, ArithmeticBranch, AssetEncryption, CallIndirection, ClassRename, ConstStringEncryption, DebugRemoval, 
 FieldRename, Goto, LibEncryption, MethodOverload, MethodRename, NewAlignment, NewSignature, Nop, RandomManifest, Rebuild, 
 Reflection, Reorder, ResStringEncryption
-
+```
 
 ## Vanilla
 ### Custom
