@@ -7,6 +7,7 @@ This repository contains the data and source code that can be used to implement 
 ## Content
 
 This repository contains the following:
-- *Data* directory contains the APKs, and the mapping sha256 and obfuscation methodology, of the APKs used in the testing phase;
+- *Data* directory contains a [link](https://www.dropbox.com/scl/fi/iifp9yvf0lsolgedgc18f/APKs.zip?rlkey=a0yqxlxhow1jb0quu5xrixjp8&st=uzlbar81&dl=0) to download the APKs in the testbed presented in the paper, 
+and the mapping sha256 and obfuscation methodology;
 - *Code* directory contains the source code of the unobfuscated custom-built application, and the smali code of the loader classes;
 - *VirusTotal* directory contains the summary of the results by VirusTotal.
